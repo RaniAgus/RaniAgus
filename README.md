@@ -1,12 +1,12 @@
 ### Hola 👋, soy Agus
 
-- 👨🏻‍🎓 Me egresé de Bachiller en Informática en la [Casa Pio IX](https://www.pioix.edu.ar/) en 2017
+- 👨🏻‍🎓 Soy egresado de Bachiller en Informática en la [Casa Pio IX](https://www.pioix.edu.ar/) en 2017
 - 📚 Soy estudiante de Ingeniería en Sistemas de Información en la [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/) desde 2018
 
 - 🔭 Tengo conocimientos de programación imperativa, orientada a objetos, funcional y lógica; de manejo de bases de datos SQL; y de lenguajes de marcado HTML, CSS y Markdown
 
 <!--
-- 🔍 Quiero profundizar mis conocimientos en ...
+- 🔍 Quiero profundizar mis conocimientos en el framework ASP.NET MVC
 - 🌱 Estoy aprendiendo ... 
 -->
 
@@ -22,38 +22,36 @@
   <a href="https://instagram.com/agusrani1"><img src="https://img.shields.io/badge/-@agusrani1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   </p>
 
-<!--
 - 🚀 He realizado y formado parte de trabajos en programación muy copados en:
   - 📜 Imperativo (C/C++)   
   <p align="center">
-  <a href="https://github.com/RaniAgus/so-tp-2020-2c-pedidOS-ya"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=so-tp-2020-2c-pedidOS-ya&locale=es&theme=dark"/></a>
-  <a href="https://github.com/RaniAgus/ayed-tp-2018-mundial"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=ayed-tp-2018-mundial&locale=es&theme=dark"/></a>
+  <a href="https://github.com/RaniAgus/so-tp-2020-2c-pedidOS-ya"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=so-tp-2020-2c-pedidOS-ya&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+  <a href="https://github.com/RaniAgus/ayed-tp-2018-mundial"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=ayed-tp-2018-mundial&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
   </p>
 
   - 🎈 Objetos (Wollok)
     
   <p align="center">
-  <a href="https://github.com/RaniAgus/pdep-2020-o-tpi-PlantsVsZombies"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-tpi-PlantsVsZombies&locale=es&theme=dark"/></a>
-  <a href="https://github.com/RaniAgus/pdep-2020-o-parcial-mensajeria"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-parcial-mensajeria&locale=es&theme=dark"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-o-tpi-PlantsVsZombies"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-tpi-PlantsVsZombies&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-o-parcial-mensajeria"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-parcial-mensajeria&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
   </p>
 
   - 🦉 Lógico (SWI-Prolog)
     
   <p align="center">
-  <a href="https://github.com/RaniAgus/pdep-2020-l-tpi-mafia"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-tpi-mafia&locale=es&theme=dark"/></a>
-  <a href="https://github.com/RaniAgus/pdep-2020-l-parcial-alquimia"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-parcial-alquimia&locale=es&theme=dark"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-l-tpi-mafia"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-tpi-mafia&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-l-parcial-alquimia"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-parcial-alquimia&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
   </p>
 
   - 入 Funcional (Haskell)
     
   <p align="center">
-  <a href="https://github.com/RaniAgus/pdep-2020-f-tpi-taller-mecanico"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-tpi-taller-mecanico&locale=es&theme=dark"/></a>
-  <a href="https://github.com/RaniAgus/pdep-2020-f-parcial-vacaciones"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-parcial-vacaciones&locale=es&theme=dark"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-f-tpi-taller-mecanico"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-tpi-taller-mecanico&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-f-parcial-vacaciones"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-parcial-vacaciones&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
   </p>
     
 - 💡 También suelo crear herramientas para facilitar mi cursada y compartirlas ☺️
     <p align="center">
-    <a href="https://github.com/RaniAgus/flex-bison-makefiles"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=flex-bison-makefiles&locale=es&theme=dark"/></a>
-    <a href="https://github.com/RaniAgus/utnso-project"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=utnso-project&locale=es&theme=dark"/></a>
+    <a href="https://github.com/RaniAgus/flex-bison-makefiles"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=flex-bison-makefiles&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+    <a href="https://github.com/RaniAgus/utnso-project"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=utnso-project&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
     </p>
--->
