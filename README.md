@@ -6,13 +6,13 @@
 - 🔭 Tengo conocimientos de programación imperativa (sobre todo en C/C++), orientada a objetos, funcional y lógica; de manejo de bases de datos SQL; y de lenguajes de marcado HTML, CSS y Markdown
 
 <!--
-- 🔭 Quiero profundizar mis conocimientos en ...
+- 🔍 Quiero profundizar mis conocimientos en ...
 - 🌱 Estoy aprendiendo ... 
 -->
 
   <p align="center">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaniAgus&show_icons=true&locale=es&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaniAgus&locale=es&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaniAgus&show_icons=true&locale=es&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaniAgus&locale=es&layout=compact&langs_count=8&theme=dark"/>
   </p>
 
   <p align="center">
@@ -22,39 +22,38 @@
   <a href="https://instagram.com/agusrani1"><img src="https://img.shields.io/badge/-@agusrani1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   </p>
 
+<!--
 - 🚀 He realizado y formado parte de trabajos en programación muy copados en:
   - 📜 Imperativo (C/C++)   
   <p align="center">
-  <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=so-tp-2020-2c-pedidOS-ya&locale=es&theme=tokyonight"/>
-  <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=ayed-tp-2018-mundial&locale=es&theme=tokyonight"/>
+  <a href="https://github.com/RaniAgus/so-tp-2020-2c-pedidOS-ya"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=so-tp-2020-2c-pedidOS-ya&locale=es&theme=dark"/></a>
+  <a href="https://github.com/RaniAgus/ayed-tp-2018-mundial"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=ayed-tp-2018-mundial&locale=es&theme=dark"/></a>
   </p>
 
   - 🎈 Objetos (Wollok)
     
   <p align="center">
-  <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-tpi-PlantsVsZombies&locale=es&theme=tokyonight"/>
-  <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-parcial-mensajeria&locale=es&theme=tokyonight"/>
+  <a href="https://github.com/RaniAgus/pdep-2020-o-tpi-PlantsVsZombies"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-tpi-PlantsVsZombies&locale=es&theme=dark"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-o-parcial-mensajeria"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-parcial-mensajeria&locale=es&theme=dark"/></a>
   </p>
-  </p> 
 
   - 🦉 Lógico (SWI-Prolog)
     
   <p align="center">
-  <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-tpi-mafia&locale=es&theme=tokyonight"/>
-  <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-parcial-alquimia&locale=es&theme=tokyonight"/>
-  </p>
+  <a href="https://github.com/RaniAgus/pdep-2020-l-tpi-mafia"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-tpi-mafia&locale=es&theme=dark"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-l-parcial-alquimia"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-parcial-alquimia&locale=es&theme=dark"/></a>
   </p>
 
   - 入 Funcional (Haskell)
     
   <p align="center">
-  <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-tpi-taller-mecanico&locale=es&theme=tokyonight"/>
-  <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-parcial-vacaciones&locale=es&theme=tokyonight"/>
-  </p>
+  <a href="https://github.com/RaniAgus/pdep-2020-f-tpi-taller-mecanico"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-tpi-taller-mecanico&locale=es&theme=dark"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-f-parcial-vacaciones"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-parcial-vacaciones&locale=es&theme=dark"/></a>
   </p>
     
 - 💡 También suelo crear herramientas para facilitar mi cursada y compartirlas ☺️
     <p align="center">
-    <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=flex-bison-makefiles&locale=es&theme=tokyonight"/>
-    <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=utnso-project&locale=es&theme=tokyonight"/>
+    <a href="https://github.com/RaniAgus/flex-bison-makefiles"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=flex-bison-makefiles&locale=es&theme=dark"/></a>
+    <a href="https://github.com/RaniAgus/utnso-project"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=utnso-project&locale=es&theme=dark"/></a>
     </p>
+-->
