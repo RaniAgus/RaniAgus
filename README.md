@@ -3,7 +3,7 @@
 - 👨🏻‍🎓 Me egresé de Bachiller en Informática en la [Casa Pio IX](https://www.pioix.edu.ar/) en 2017
 - 📚 Soy estudiante de Ingeniería en Sistemas de Información en la [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/) desde 2018
 
-- 🔭 Tengo conocimientos de programación imperativa (sobre todo en C/C++), orientada a objetos, funcional y lógica; de manejo de bases de datos SQL; y de lenguajes de marcado HTML, CSS y Markdown
+- 🔭 Tengo conocimientos de programación imperativa, orientada a objetos, funcional y lógica; de manejo de bases de datos SQL; y de lenguajes de marcado HTML, CSS y Markdown
 
 <!--
 - 🔍 Quiero profundizar mis conocimientos en ...
@@ -11,8 +11,8 @@
 -->
 
   <p align="center">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=c9d1d9"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/>
   </p>
 
   <p align="center">
