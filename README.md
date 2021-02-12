@@ -17,7 +17,7 @@
 
   <p align="center">
   <a href="https://gitstats.me/RaniAgus"><img src="https://img.shields.io/badge/-RaniAgus-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/agust%C3%ADn-ranieri-035564167/"><img src="https://img.shields.io/badge/-Agustin%20Ranieri%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/agusranieri/"><img src="https://img.shields.io/badge/-Agustin%20Ranieri%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:aguseranieri@gmail.com"><img src="https://img.shields.io/badge/-aguseranieri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/agusrani1"><img src="https://img.shields.io/badge/-@agusrani1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   </p>
