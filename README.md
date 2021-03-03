@@ -1,14 +1,12 @@
 ### Hola 👋, soy Agus
 
-- 👨🏻‍🎓 Soy egresado de Bachiller en Informática en la [Casa Pio IX](https://www.pioix.edu.ar/) en 2017
-- 📚 Soy estudiante de Ingeniería en Sistemas de Información en la [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/) desde 2018
+- 📚 Soy estudiante de Ingeniería en Sistemas de Información en la [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/) desde 2018, y también soy egresado de Bachiller en Informática en la [Casa Pio IX](https://www.pioix.edu.ar/) en 2017
 
 - 🔭 Tengo conocimientos de programación imperativa, orientada a objetos, funcional y lógica; de manejo de bases de datos SQL; y de lenguajes de marcado HTML, CSS y Markdown
 
-<!--
-- 🔍 Quiero profundizar mis conocimientos en el framework ASP.NET MVC
-- 🌱 Estoy aprendiendo ... 
--->
+- 🔍 Estoy buscando mi primera experiencia laboral como Desarrollador, que me permita ampliar mis conocimientos en camino a ser Full Stack Developer.
+
+- 🌱 Estoy haciendo varios cursos en Udemy en torno a ASP.NET C# MVC, Java y Node.js
 
   <p align="center">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84&include_all_commits=true&count_private=true"/>
