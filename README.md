@@ -11,8 +11,8 @@
 -->
 
   <p align="center">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/>
+  <img height="140em" src="https://github-readme-stats-raniagus.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-raniagus.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
 
   <p align="center">
@@ -24,33 +24,33 @@
 - 🚀 He realizado y formado parte de trabajos en programación muy copados en:
   - 📜 Imperativo (C/C++)   
   <p align="center">
-  <a href="https://github.com/RaniAgus/so-tp-2020-2c-pedidOS-ya"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=so-tp-2020-2c-pedidOS-ya&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
-  <a href="https://github.com/RaniAgus/ayed-tp-2018-mundial"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=ayed-tp-2018-mundial&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+  <a href="https://github.com/RaniAgus/so-tp-2020-2c-pedidOS-ya"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=so-tp-2020-2c-pedidOS-ya&locale=es&bg_color=0d1117&theme=github_dark"/></a>
+  <a href="https://github.com/RaniAgus/ayed-tp-2018-mundial"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=ayed-tp-2018-mundial&locale=es&bg_color=0d1117&theme=github_dark"/></a>
   </p>
 
   - 🎈 Objetos (Wollok)
     
   <p align="center">
-  <a href="https://github.com/RaniAgus/pdep-2020-o-tpi-PlantsVsZombies"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-tpi-PlantsVsZombies&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
-  <a href="https://github.com/RaniAgus/pdep-2020-o-parcial-mensajeria"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-parcial-mensajeria&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-o-tpi-PlantsVsZombies"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-tpi-PlantsVsZombies&locale=es&bg_color=0d1117&theme=github_dark"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-o-parcial-mensajeria"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-parcial-mensajeria&locale=es&theme=github_dark"/></a>
   </p>
 
   - 🦉 Lógico (SWI-Prolog)
     
   <p align="center">
-  <a href="https://github.com/RaniAgus/pdep-2020-l-tpi-mafia"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-tpi-mafia&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
-  <a href="https://github.com/RaniAgus/pdep-2020-l-parcial-alquimia"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-parcial-alquimia&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-l-tpi-mafia"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-tpi-mafia&locale=es&theme=github_dark"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-l-parcial-alquimia"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-parcial-alquimia&locale=es&theme=github_dark"/></a>
   </p>
 
   - 入 Funcional (Haskell)
     
   <p align="center">
-  <a href="https://github.com/RaniAgus/pdep-2020-f-tpi-taller-mecanico"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-tpi-taller-mecanico&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
-  <a href="https://github.com/RaniAgus/pdep-2020-f-parcial-vacaciones"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-parcial-vacaciones&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-f-tpi-taller-mecanico"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-tpi-taller-mecanico&locale=es&theme=github_dark"/></a>
+  <a href="https://github.com/RaniAgus/pdep-2020-f-parcial-vacaciones"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-parcial-vacaciones&locale=es&theme=github_dark"/></a>
   </p>
     
 - 💡 También suelo crear herramientas para facilitar mi cursada y compartirlas ☺️
     <p align="center">
-    <a href="https://github.com/RaniAgus/flex-bison-makefiles"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=flex-bison-makefiles&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
-    <a href="https://github.com/RaniAgus/utnso-project"><img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaniAgus&repo=utnso-project&locale=es&bg_color=0d1117&title_color=549ff5&icon_color=737b84&text_color=737b84"/></a>
+    <a href="https://github.com/RaniAgus/flex-bison-makefiles"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=flex-bison-makefiles&locale=es&theme=github_dark"/></a>
+    <a href="https://github.com/RaniAgus/utnso-project"><img width="300em" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=utnso-project&locale=es&theme=github_dark"/></a>
     </p>
