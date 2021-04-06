@@ -58,7 +58,7 @@
   </p>
 </details>
     
-💡 También suelo crear herramientas para facilitar mi cursada y compartirlas ☺️
+- 💡 También suelo crear herramientas para facilitar mi cursada y compartirlas ☺️
     <p align="center">
     <a href="https://github.com/RaniAgus/flex-bison-makefiles"><img width="40%" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=flex-bison-makefiles&locale=es&theme=github_dark"/></a>
     <a href="https://github.com/RaniAgus/utnso-project"><img width="40%" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=utnso-project&locale=es&theme=github_dark"/></a>
