@@ -4,7 +4,7 @@
 
 - 🔭 Tengo conocimientos básicos de programación imperativa, orientada a objetos, funcional y lógica; y de SQL, HTML/CSS y Markdown
 
-- 🔍 Estoy buscando mi primera experiencia laboral como Desarrollador, que me permita ampliar mis conocimientos en camino a ser Full Stack Developer.
+- 👨‍💻 Me encuentro trabajando como Desarrollador Trainee en [SHIFTA](https://www.weareshifters.com/en/).
 
 <!--
 - 🌱 Estoy aprendiendo... 
