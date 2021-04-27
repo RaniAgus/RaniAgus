@@ -6,9 +6,7 @@
 
 - 👨‍💻 Me encuentro trabajando como Desarrollador Trainee en [SHIFTA](https://www.weareshifters.com/en/).
 
-<!--
-- 🌱 Estoy aprendiendo... 
--->
+- 🌱 Estoy aprendiendo Java, JavaScript, Node.js, Bootstrap y Angular
 
   <p align="center">
   <img width="46%" src="https://github-readme-stats-raniagus.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
