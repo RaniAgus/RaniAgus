@@ -59,5 +59,5 @@
 - 💡 También suelo crear herramientas para facilitar mi cursada y compartirlas ☺️
     <p align="center">
     <a href="https://github.com/RaniAgus/ssl-flex-bison-projects"><img width="40%" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=ssl-flex-bison-projects&locale=es&theme=github_dark"/></a>
-    <a href="https://github.com/RaniAgus/utnso-project"><img width="40%" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=utnso-project&locale=es&theme=github_dark"/></a>
+    <a href="https://github.com/RaniAgus/so-project-template"><img width="40%" src="https://github-readme-stats-raniagus.vercel.app/api/pin/?username=RaniAgus&repo=so-project-template&locale=es&theme=github_dark"/></a>
     </p>
