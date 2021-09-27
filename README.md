@@ -19,7 +19,7 @@
   <a href="mailto:aguseranieri@gmail.com"><img src="https://img.shields.io/badge/-aguseranieri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 
-- 🚀 He realizado y formado parte de trabajos en programación muy copados en:
+- 🚀 He realizado y formado parte de trabajos en programación muy copados en distintos paradigmas de programación:
 
 <details>
   <summary>📜 Imperativo (C/C++)</summary>
