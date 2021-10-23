@@ -6,7 +6,7 @@
 
 - 👨‍💻 Me encuentro trabajando como Desarrollador Trainee en [SHIFTA](https://www.weareshifters.com/en/) y soy ayudante de cátedra de [Sistemas Operativos](https://www.utnso.com.ar/) en mi facultad.
 
-- 🌱 Estoy aprendiendo Java (Spring Boot) y JavaScript (Node.js, TypeScript y Angular).
+- 🌱 Estoy aprendiendo Java (Spark) y JavaScript (Node.js, TypeScript, Express y Angular).
 
   <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
