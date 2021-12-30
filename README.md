@@ -61,3 +61,6 @@
     <a href="https://github.com/RaniAgus/ssl-flex-bison-projects"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=ssl-flex-bison-projects&locale=es&theme=github_dark"/></a>
     <a href="https://github.com/RaniAgus/so-project-template"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=so-project-template&locale=es&theme=github_dark"/></a>
     </p>
+    <p align="center">
+    <a href="https://github.com/RaniAgus/dds-plantuml-ejemplo"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=dds-plantuml-ejemplo&locale=es&theme=github_dark"/></a>
+    </p>
