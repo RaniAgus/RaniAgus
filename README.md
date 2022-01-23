@@ -72,16 +72,16 @@
 
 ### Other Tools
 
-| Language/Tool  | Rating   |
-| -------------- | -------- |
-| C              | 🌟🌟🌟🌟 |
-| Linux          | 🌟🌟🌟🌟 |
-| TypeScript     | 🌟🌟🌟🌟 |
-| JWT            | 🌟🌟🌟   |
-| Shell Scripts  | 🌟🌟🌟   |
-| GNU Make       | 🌟🌟🌟   | 
-| Python         | 🌟       | 
-| PHP            | 🌟       | 
+| Language/Tool | Rating   |
+| ------------- | -------- |
+| C             | 🌟🌟🌟🌟 |
+| Linux Shell   | 🌟🌟🌟🌟 |
+| TypeScript    | 🌟🌟🌟🌟 |
+| JWT           | 🌟🌟🌟   |
+| Shell Scripts | 🌟🌟🌟   |
+| GNU Make      | 🌟🌟🌟   | 
+| Python        | 🌟       | 
+| PHP           | 🌟       | 
 
   </td>
  </tr>
