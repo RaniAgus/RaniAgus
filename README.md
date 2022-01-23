@@ -23,6 +23,11 @@
 🌟 = Current
 🎯 = 2022 goal
 
+
+<table>
+  <tr>
+    <td>
+  
 ### Dev-Ops
 
 | Technology | Rating   |
@@ -33,6 +38,7 @@
 | AWS        | 🎯🎯🎯   |
 | Kubernetes | 🎯🎯🎯   |
 
+      
 ### Back-End
 
 | Language | Framework    | Rating   |
@@ -41,6 +47,9 @@
 | Java     | Apache Spark | 🌟🌟🌟   |
 | C#       | .NET Core    | 🌟🎯🎯🎯 |
 
+   </td>
+   <td>
+      
 ### Front-End
 
 | Language/Framework | Rating   |
@@ -52,6 +61,7 @@
 | Angular            | 🌟🌟     |
 | React.js           | 🎯🎯🎯   |
 
+     
 ### Database
 
 | Type    | ORM/ODM          | Rating   |
@@ -60,6 +70,8 @@
 | SQL     | Entity Framework | 🌟🎯🎯🎯 |
 | MongoDB | Mongoose         | 🌟🎯     | 
 
+   </td>
+   <td>
 
 ### Other Tools
 
@@ -72,3 +84,7 @@
 | Shell Scripts  | 🌟🌟🌟   |
 | GNU Make       | 🌟🌟🌟   | 
     
+
+  </td>
+ </tr>
+</table>
