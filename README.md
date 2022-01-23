@@ -1,13 +1,15 @@
-### Hola 👋, soy Agus
+### Hi 👋, I'm Agus
 
-- 📚 Soy estudiante de Ingeniería en Sistemas de Información en la [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/) desde 2018, y también soy egresado de Bachiller en Informática en la [Casa Pio IX](https://www.pioix.edu.ar/) en 2017
+- 📚 I'm an Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also an teaching assistant for [Operative Systems](https://www.utnso.com.ar/) subject.
 
-- 🔭 Tengo conocimientos básicos de programación imperativa, orientada a objetos, funcional y lógica; y de SQL, HTML/CSS y Markdown
+- 👨‍💻 I'm currently working as a Software Engineer Jr at [SHIFTA](https://www.weareshifters.com/en/).
 
-- 👨‍💻 Me encuentro trabajando como Desarrollador Trainee en [SHIFTA](https://www.weareshifters.com/en/) y soy ayudante de cátedra de [Sistemas Operativos](https://www.utnso.com.ar/) en mi facultad.
-
-- 🌱 Estoy aprendiendo Java (Spark) y JavaScript (Node.js, TypeScript, Express y Angular).
-
+- 💡 I do also like to create tools to increase my productivity and share them with others ☺️
+  <p align="center">
+  <a href="https://github.com/RaniAgus/ssl-flex-bison-projects"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=ssl-flex-bison-projects&locale=es&theme=github_dark"/></a>
+  <a href="https://github.com/RaniAgus/so-project-template"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=so-project-template&locale=es&theme=github_dark"/></a>
+  <a href="https://github.com/RaniAgus/dds-plantuml-ejemplo"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=dds-plantuml-ejemplo&locale=es&theme=github_dark"/></a>
+  </p>
   <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&theme=github_dark"/>
@@ -19,48 +21,58 @@
   <a href="mailto:aguseranieri@gmail.com"><img src="https://img.shields.io/badge/-aguseranieri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 
-- 🚀 He realizado y formado parte de trabajos en programación muy copados en distintos paradigmas de programación:
 
-<details>
-  <summary>📜 Imperativo (C/C++)</summary>
-  <p align="center">
-  <a href="https://github.com/RaniAgus/so-tp-2020-2c-pedidOS-ya"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=so-tp-2020-2c-pedidOS-ya&locale=es&bg_color=0d1117&theme=github_dark"/></a>
-  <a href="https://github.com/RaniAgus/ayed-tp-2018-mundial"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=ayed-tp-2018-mundial&locale=es&bg_color=0d1117&theme=github_dark"/></a>
-  </p>
-</details>
+## My tech stack
 
-<details>
-  <summary>🎈 Objetos (Wollok)</summary>
-    
-  <p align="center">
-  <a href="https://github.com/RaniAgus/pdep-2020-o-tpi-PlantsVsZombies"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-tpi-PlantsVsZombies&locale=es&bg_color=0d1117&theme=github_dark"/></a>
-  <a href="https://github.com/RaniAgus/pdep-2020-o-parcial-mensajeria"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-o-parcial-mensajeria&locale=es&theme=github_dark"/></a>
-  </p>
-</details>
+🌟 = Current
+🎯 = 2022 goal
 
-<details>
-  <summary>🦉 Lógico (SWI-Prolog)</summary>
-    
-  <p align="center">
-  <a href="https://github.com/RaniAgus/pdep-2020-l-tpi-mafia"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-tpi-mafia&locale=es&theme=github_dark"/></a>
-  <a href="https://github.com/RaniAgus/pdep-2020-l-parcial-alquimia"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-l-parcial-alquimia&locale=es&theme=github_dark"/></a>
-  </p>
-</details>
+### Dev-Ops
 
-<details>
-  <summary>入 Funcional (Haskell)</summary>
+| Technology | Rating   |
+| ---------- | -------- |
+| Git        | 🌟🌟🌟🌟 |
+| Docker     | 🌟🌟🌟🌟 |
+| Nginx      | 🌟🎯🎯   |
+| AWS        | 🎯🎯🎯   |
+| Kubernetes | 🎯🎯🎯   |
+
+### Back-End
+
+| Language | Framework    | Rating   |
+| -------- | ------------ | -------- |
+| Node.JS  | Express.js   | 🌟🌟🌟🎯 | 
+| Java     | Apache Spark | 🌟🌟🌟   |
+| C#       | .NET Core    | 🌟🎯🎯🎯 |
+
+### Front-End
+
+| Language/Framework | Rating   |
+| ------------------ | -------- |
+| HTML               | 🌟🌟🌟🌟 |
+| CSS                | 🌟🎯🎯   |
+| Bootstrap          | 🌟🌟🌟   |
+| JavaScript         | 🌟🌟🎯🎯 | 
+| Angular            | 🌟🌟     |
+| React.js           | 🎯🎯🎯   |
+
+### Database
+
+| Type    | ORM/ODM          | Rating   |
+| ------- | ---------------- | -------- |
+| SQL     | Hibernate        | 🌟🌟🌟   |
+| SQL     | Entity Framework | 🌟🎯🎯🎯 |
+| MongoDB | Mongoose         | 🌟🎯     | 
+
+
+### Other Tools
+
+| Language/Tool | Rating   |
+| ------------- | -------- |
+| C             | 🌟🌟🌟🌟 |
+| Linux         | 🌟🌟🌟🌟 |
+| TypeScript    | 🌟🌟🌟🌟 |
+| JWT           | 🌟🌟🌟   |
+| Shell Script  | 🌟🌟🌟   |
+| GNU Make      | 🌟🌟🌟   | 
     
-  <p align="center">
-  <a href="https://github.com/RaniAgus/pdep-2020-f-tpi-taller-mecanico"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-tpi-taller-mecanico&locale=es&theme=github_dark"/></a>
-  <a href="https://github.com/RaniAgus/pdep-2020-f-parcial-vacaciones"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=pdep-2020-f-parcial-vacaciones&locale=es&theme=github_dark"/></a>
-  </p>
-</details>
-    
-- 💡 También suelo crear herramientas para facilitar mi cursada y compartirlas ☺️
-    <p align="center">
-    <a href="https://github.com/RaniAgus/ssl-flex-bison-projects"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=ssl-flex-bison-projects&locale=es&theme=github_dark"/></a>
-    <a href="https://github.com/RaniAgus/so-project-template"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=so-project-template&locale=es&theme=github_dark"/></a>
-    </p>
-    <p align="center">
-    <a href="https://github.com/RaniAgus/dds-plantuml-ejemplo"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=dds-plantuml-ejemplo&locale=es&theme=github_dark"/></a>
-    </p>
