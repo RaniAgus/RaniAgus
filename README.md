@@ -52,17 +52,11 @@
       
 ### Front-End
 
-| Language           | Rating   |
-| ------------------ | -------- |
-| HTML               | 🌟🌟🌟🌟 |
-| CSS                | 🌟🎯🎯   |
-| JavaScript         | 🌟🌟🎯🎯 | 
-     
-| Framework          | Rating   |
-| ------------------ | -------- |
-| Bootstrap          | 🌟🌟🌟   |
-| Angular            | 🌟🌟     |
-| React.js           | 🎯🎯🎯   |
+| Language           | Rating   | | Framework          | Rating   |
+| ------------------ | -------- |-| ------------------ | -------- |
+| HTML               | 🌟🌟🌟🌟 | | Bootstrap          | 🌟🌟🌟   |
+| CSS                | 🌟🎯🎯   | | Angular            | 🌟🌟     |
+| JavaScript         | 🌟🌟🎯🎯 | | React.js           | 🎯🎯🎯   |
 
      
 ### Database
