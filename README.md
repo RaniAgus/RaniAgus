@@ -2,14 +2,10 @@
 
 - 📚 I'm an Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also an teaching assistant for [Operative Systems](https://www.utnso.com.ar/) subject.
 
-- 👨‍💻 I'm currently working as a Software Engineer Jr at [SHIFTA](https://www.weareshifters.com/en/).
+- 👨‍💻 Currently working as a Software Engineer at [SHIFTA](https://www.weareshifters.com/en/).
 
 - 💡 I do also like to create tools to increase my productivity and share them with others ☺️
-  <p align="center">
-  <a href="https://github.com/RaniAgus/ssl-flex-bison-projects"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=ssl-flex-bison-projects&locale=es&theme=github_dark"/></a>
-  <a href="https://github.com/RaniAgus/so-project-template"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=so-project-template&locale=es&theme=github_dark"/></a>
-  <a href="https://github.com/RaniAgus/dds-plantuml-ejemplo"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaniAgus&repo=dds-plantuml-ejemplo&locale=es&theme=github_dark"/></a>
-  </p>
+
   <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&theme=github_dark"/>
