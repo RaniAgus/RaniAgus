@@ -20,8 +20,8 @@
 
 ## My tech stack
 
-🌟 = Current
-🎯 = 2022 goal
+- 🌟 = Current
+- 🎯 = 2022 goal
 
 
 <table>
