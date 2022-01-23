@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Agus
 
-- 📚 I'm an Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also an teaching assistant for [Operative Systems](https://www.utnso.com.ar/) subject.
+- 📚 I'm an Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also a teaching assistant for [Operative Systems](https://www.utnso.com.ar/) subject.
 
 - 👨‍💻 Currently working as a Software Engineer at [SHIFTA](https://www.weareshifters.com/en/).
 
