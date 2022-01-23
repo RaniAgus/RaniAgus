@@ -65,7 +65,7 @@
 | ------- | ---------------- | -------- |
 | SQL     | Hibernate        | 🌟🌟🌟   |
 | SQL     | Entity Framework | 🌟🎯🎯🎯 |
-| MongoDB | Mongoose         | 🌟🎯     | 
+| MongoDB | Mongoose         | 🌟🎯🎯   | 
 
    </td>
    <td>
@@ -80,7 +80,8 @@
 | JWT            | 🌟🌟🌟   |
 | Shell Scripts  | 🌟🌟🌟   |
 | GNU Make       | 🌟🌟🌟   | 
-    
+| Python         | 🌟       | 
+| PHP            | 🌟       | 
 
   </td>
  </tr>
