@@ -43,7 +43,7 @@
 
 | Language | Framework    | Rating   |
 | -------- | ------------ | -------- |
-| Node.JS  | Express.js   | 🌟🌟🌟🎯 | 
+| Node.js  | Express.js   | 🌟🌟🌟🎯 | 
 | Java     | Apache Spark | 🌟🌟🌟   |
 | C#       | .NET Core    | 🌟🎯🎯🎯 |
 
