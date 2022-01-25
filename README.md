@@ -20,7 +20,7 @@
 
 ## My tech stack
 
-- 🌟 = Current
+- ⭐ = Current
 - 🎯 = 2022 goal
 
 
@@ -32,9 +32,9 @@
 
 | Technology | Rating   |
 | ---------- | -------- |
-| Git        | 🌟🌟🌟🌟 |
-| Docker     | 🌟🌟🌟🌟 |
-| Nginx      | 🌟🎯🎯   |
+| Git        | ⭐⭐⭐⭐ |
+| Docker     | ⭐⭐⭐⭐ |
+| Nginx      | ⭐🎯🎯   |
 | AWS        | 🎯🎯🎯   |
 | Kubernetes | 🎯🎯🎯   |
 
@@ -43,9 +43,9 @@
 
 | Language | Framework    | Rating   |
 | -------- | ------------ | -------- |
-| Node.js  | Express.js   | 🌟🌟🌟🎯 | 
-| Java     | Apache Spark | 🌟🌟🌟   |
-| C#       | .NET Core    | 🌟🎯🎯🎯 |
+| Node.js  | Express.js   | ⭐⭐⭐🎯 | 
+| Java     | Apache Spark | ⭐⭐⭐   |
+| C#       | .NET Core    | ⭐🎯🎯🎯 |
 
    </td>
    <td>
@@ -54,18 +54,18 @@
 
 | Language           | Rating   | | Framework          | Rating   |
 | ------------------ | -------- |-| ------------------ | -------- |
-| HTML               | 🌟🌟🌟   | | Bootstrap          | 🌟🌟🌟   |
-| CSS                | 🌟🎯🎯   | | Angular            | 🌟🌟     |
-| JavaScript         | 🌟🌟🎯🎯 | | React.js           | 🎯🎯🎯   |
+| HTML               | ⭐⭐⭐   | | Bootstrap          | ⭐⭐⭐   |
+| CSS                | ⭐🎯🎯   | | Angular            | ⭐⭐     |
+| JavaScript         | ⭐⭐🎯🎯 | | React.js           | 🎯🎯🎯   |
 
      
 ### Database
 
 | Type    | ORM/ODM          | Rating   |
 | ------- | ---------------- | -------- |
-| SQL     | Hibernate        | 🌟🌟🌟   |
-| SQL     | Entity Framework | 🌟🎯🎯🎯 |
-| MongoDB | Mongoose         | 🌟🎯🎯   | 
+| SQL     | Hibernate        | ⭐⭐⭐   |
+| SQL     | Entity Framework | ⭐🎯🎯🎯 |
+| MongoDB | Mongoose         | ⭐🎯🎯   | 
 
    </td>
    <td>
@@ -74,14 +74,14 @@
 
 | Language/Tool | Rating   |
 | ------------- | -------- |
-| C             | 🌟🌟🌟🌟 |
-| Linux Shell   | 🌟🌟🌟🌟 |
-| TypeScript    | 🌟🌟🌟🌟 |
-| JWT           | 🌟🌟🌟   |
-| Shell Scripts | 🌟🌟🌟   |
-| GNU Make      | 🌟🌟🌟   | 
-| Python        | 🌟       | 
-| PHP           | 🌟       | 
+| C             | ⭐⭐⭐⭐ |
+| Linux Shell   | ⭐⭐⭐⭐ |
+| TypeScript    | ⭐⭐⭐⭐ |
+| JWT           | ⭐⭐⭐   |
+| Shell Scripts | ⭐⭐⭐   |
+| GNU Make      | ⭐⭐⭐   | 
+| Python        | ⭐       | 
+| PHP           | ⭐       | 
 
   </td>
  </tr>
