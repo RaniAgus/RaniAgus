@@ -41,31 +41,31 @@
       
 ### Back-End
 
-| Language | Framework    | Rating   |
-| -------- | ------------ | -------- |
-| Node.js  | Express.js   | ⭐⭐⭐🎯 | 
-| Java     | Apache Spark | ⭐⭐⭐   |
-| C#       | .NET Core    | ⭐🎯🎯🎯 |
+| Language | Framework                                            | Rating   |
+| -------- | ---------------------------------------------------- | -------- |
+| Node.js  | [Express.js](https://github.com/expressjs/express)   | ⭐⭐⭐🎯 | 
+| Java     | [Spark](https://github.com/perwendel/spark)          | ⭐⭐⭐   |
+| C#       | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ⭐🎯🎯🎯 |
 
    </td>
    <td>
       
 ### Front-End
 
-| Language           | Rating   | | Framework          | Rating   |
-| ------------------ | -------- |-| ------------------ | -------- |
-| HTML               | ⭐⭐⭐   | | Bootstrap          | ⭐⭐⭐   |
-| CSS                | ⭐🎯🎯   | | Angular            | ⭐⭐     |
-| JavaScript         | ⭐⭐🎯🎯 | | React.js           | 🎯🎯🎯   |
+| Language           | Rating    | | Framework                                      | Rating   |
+| ------------------ | --------- |-| ---------------------------------------------- | -------- |
+| HTML               | ⭐⭐⭐   | | [Bootstrap](https://github.com/twbs/bootstrap) | ⭐⭐⭐   |
+| CSS                | ⭐🎯🎯   | | [Angular](https://github.com/angular/angular)  | ⭐⭐     |
+| JavaScript         | ⭐⭐🎯🎯 | | [React.js](https://github.com/facebook/react)  | 🎯🎯🎯   |
 
      
 ### Database
 
-| Type    | ORM/ODM          | Rating   |
-| ------- | ---------------- | -------- |
-| SQL     | Hibernate        | ⭐⭐⭐   |
-| SQL     | Entity Framework | ⭐🎯🎯🎯 |
-| MongoDB | Mongoose         | ⭐🎯🎯   | 
+| Type    | ORM/ODM                                                 | Rating   |
+| ------- | ------------------------------------------------------- | -------- |
+| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐   |
+| SQL     | [EF Core](https://github.com/dotnet/efcore)             | ⭐🎯🎯🎯 |
+| MongoDB | [Mongoose](https://github.com/Automattic/mongoose)      | ⭐🎯🎯   | 
 
    </td>
    <td>
