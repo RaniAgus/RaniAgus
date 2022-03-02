@@ -2,7 +2,7 @@
 
 - 📚 I'm an Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also a teaching assistant for [Operative Systems](https://www.utnso.com.ar/) subject.
 
-- 👨‍💻 Currently working as a Software Engineer at [SHIFTA](https://www.weareshifters.com/en/).
+- 👨‍💻 Currently working as an Apprentice in [Hexacta](https://careers.hexacta.com/).
 
 - 💡 I do also like to create tools to increase my productivity and share them with the community ☺️
 
