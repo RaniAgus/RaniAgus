@@ -4,6 +4,8 @@
 
 - 👨‍💻 Currently working as an Apprentice in [Hexacta](https://careers.hexacta.com/).
 
+- 🌱 I'm learning Spring Boot & React
+
 - 💡 I do also like to create tools to increase my productivity and share them with the community ☺️
 
   <p align="center">
@@ -44,8 +46,8 @@
 | Language | Framework                                            | Rating   |
 | -------- | ---------------------------------------------------- | -------- |
 | Node.js  | [Express.js](https://github.com/expressjs/express)   | ⭐⭐⭐🎯 | 
-| Java     | [Spark](https://github.com/perwendel/spark)          | ⭐⭐⭐   |
-| C#       | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ⭐🎯🎯🎯 |
+| Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐🎯🎯   |
+| C#       | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ⭐       |
 
    </td>
    <td>
@@ -56,15 +58,14 @@
 | ------------------ | --------- |-| ---------------------------------------------- | -------- |
 | HTML               | ⭐⭐⭐   | | [Bootstrap](https://github.com/twbs/bootstrap) | ⭐⭐⭐   |
 | CSS                | ⭐🎯🎯   | | [Angular](https://github.com/angular/angular)  | ⭐⭐     |
-| JavaScript         | ⭐⭐🎯🎯 | | [React.js](https://github.com/facebook/react)  | 🎯🎯🎯   |
+| JavaScript         | ⭐⭐🎯   | | [React.js](https://github.com/facebook/react)  | 🎯🎯🎯🎯 |
 
      
 ### Database
 
 | Type    | ORM/ODM                                                 | Rating   |
 | ------- | ------------------------------------------------------- | -------- |
-| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐   |
-| SQL     | [EF Core](https://github.com/dotnet/efcore)             | ⭐🎯🎯🎯 |
+| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐🎯   |
 | MongoDB | [Mongoose](https://github.com/Automattic/mongoose)      | ⭐🎯🎯   | 
 
    </td>
@@ -75,11 +76,11 @@
 | Language/Tool | Rating   |
 | ------------- | -------- |
 | C             | ⭐⭐⭐⭐ |
+| GNU Make      | ⭐⭐⭐⭐ | 
 | Linux Shell   | ⭐⭐⭐⭐ |
 | TypeScript    | ⭐⭐⭐⭐ |
 | JWT           | ⭐⭐⭐   |
-| Shell Scripts | ⭐⭐⭐   |
-| GNU Make      | ⭐⭐⭐   | 
+| Bash Scripts  | ⭐⭐⭐   |
 | Python        | ⭐       | 
 | PHP           | ⭐       | 
 
