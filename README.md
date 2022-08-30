@@ -81,6 +81,7 @@
 | TypeScript    | ⭐⭐⭐⭐ |
 | JWT           | ⭐⭐⭐   |
 | Bash Scripts  | ⭐⭐⭐   |
+| CMake         | ⭐⭐⭐   |
 | Python        | ⭐       | 
 | PHP           | ⭐       | 
 
