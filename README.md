@@ -2,7 +2,7 @@
 
 - 📚 I'm an Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also a teaching assistant for [Operative Systems](https://www.utnso.com.ar/) subject.
 
-- 👨‍💻 Currently working as an Apprentice at [Hexacta](https://careers.hexacta.com/).
+- 👨‍💻 Currently working as a Software Development Apprentice at [Hexacta](https://careers.hexacta.com/).
 
 - 🌱 I'm learning Spring Boot & React
 
