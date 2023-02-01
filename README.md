@@ -23,7 +23,7 @@
 ## My tech stack
 
 - ⭐ = Current
-- 🎯 = 2022 goal
+- 🎯 = 2023 goal
 
 
 <table>
@@ -46,7 +46,7 @@
 | Language | Framework                                            | Rating   |
 | -------- | ---------------------------------------------------- | -------- |
 | Node.js  | [Express.js](https://github.com/expressjs/express)   | ⭐⭐⭐🎯 | 
-| Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐🎯🎯   |
+| Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯   |
 | C#       | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ⭐       |
 
    </td>
@@ -57,15 +57,15 @@
 | Language           | Rating    | | Framework                                      | Rating   |
 | ------------------ | --------- |-| ---------------------------------------------- | -------- |
 | HTML               | ⭐⭐⭐   | | [Bootstrap](https://github.com/twbs/bootstrap) | ⭐⭐⭐   |
-| CSS                | ⭐🎯🎯   | | [Angular](https://github.com/angular/angular)  | ⭐⭐     |
-| JavaScript         | ⭐⭐🎯   | | [React.js](https://github.com/facebook/react)  | 🎯🎯🎯🎯 |
+| CSS                | ⭐🎯🎯   | | [Angular](https://github.com/angular/angular)  | ⭐⭐⭐   |
+| JavaScript         | ⭐⭐⭐   | | [React.js](https://github.com/facebook/react)  | ⭐🎯🎯🎯 |
 
      
 ### Database
 
 | Type    | ORM/ODM                                                 | Rating   |
 | ------- | ------------------------------------------------------- | -------- |
-| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐🎯   |
+| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐⭐   |
 | MongoDB | [Mongoose](https://github.com/Automattic/mongoose)      | ⭐🎯🎯   | 
 
    </td>
@@ -82,6 +82,9 @@
 | JWT           | ⭐⭐⭐   |
 | Bash Scripts  | ⭐⭐⭐   |
 | CMake         | ⭐⭐⭐   |
+| RxJS          | ⭐⭐⭐   |
+| Ruby          | ⭐⭐     |
+| Scala         | ⭐⭐     |
 | Python        | ⭐       | 
 | PHP           | ⭐       | 
 
