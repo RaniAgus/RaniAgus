@@ -72,21 +72,24 @@
    <td>
 
 ### Other Tools
-
-| Language/Tool | Rating   |
+     
+| Language      | Rating   |
 | ------------- | -------- |
 | C             | ⭐⭐⭐⭐ |
-| GNU Make      | ⭐⭐⭐⭐ | 
-| Linux Shell   | ⭐⭐⭐⭐ |
 | TypeScript    | ⭐⭐⭐⭐ |
-| JWT           | ⭐⭐⭐   |
+| Scala         | ⭐⭐⭐   |
 | Bash Scripts  | ⭐⭐⭐   |
-| CMake         | ⭐⭐⭐   |
-| RxJS          | ⭐⭐⭐   |
 | Ruby          | ⭐⭐     |
-| Scala         | ⭐⭐     |
 | Python        | ⭐       | 
 | PHP           | ⭐       | 
+     
+| Tool          | Rating   |
+| ------------- | -------- |
+| GNU Make      | ⭐⭐⭐⭐ | 
+| Linux Shell   | ⭐⭐⭐⭐ |
+| JWT           | ⭐⭐⭐   |
+| CMake         | ⭐⭐⭐   |
+| RxJS          | ⭐⭐⭐   |
 
   </td>
  </tr>
