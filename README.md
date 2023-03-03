@@ -69,7 +69,8 @@
 | Type    | ORM/ODM                                                 | Rating   |
 | ------- | ------------------------------------------------------- | -------- |
 | SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐⭐   |
-| MongoDB | [Mongoose](https://github.com/Automattic/mongoose)      | ⭐🎯🎯   | 
+| SQL     | [Prisma](https://github.com/prisma/prisma)              | 🎯🎯🎯   | 
+| MongoDB | [Mongoose](https://github.com/Automattic/mongoose)      | ⭐       | 
 
    </td>
    <td>
@@ -90,9 +91,9 @@
 | ------------- | -------- |
 | GNU Make      | ⭐⭐⭐⭐ | 
 | Linux Shell   | ⭐⭐⭐⭐ |
-| JWT           | ⭐⭐⭐   |
 | CMake         | ⭐⭐⭐   |
 | RxJS          | ⭐⭐⭐   |
+| JWT           | ⭐⭐     |
 
   </td>
  </tr>
