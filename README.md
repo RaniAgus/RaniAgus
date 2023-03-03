@@ -33,67 +33,97 @@
   <tr>
     <td>
   
-### Dev-Ops
+### Languages
 
-| Technology | Rating   |
-| ---------- | -------- |
-| Git        | ⭐⭐⭐⭐ |
-| Docker     | ⭐⭐⭐⭐ |
-| Nginx      | ⭐🎯🎯   |
-| AWS        | 🎯🎯🎯   |
-| Kubernetes | 🎯🎯🎯   |
-
+| Language   | Rating     |
+| ---------- | ---------- |
+| Java       | ⭐⭐⭐⭐⭐ |
+| C          | ⭐⭐⭐⭐   |
+| TypeScript | ⭐⭐⭐⭐   |
+| Scala      | ⭐⭐⭐     |
+| Bash       | ⭐⭐⭐     |
+| JavaScript | ⭐⭐⭐     |
+| Ruby       | ⭐⭐⭐     |
       
-### Back-End
+### Back End Frameworks
 
-| Language | Framework                                            | Rating   |
-| -------- | ---------------------------------------------------- | -------- |
-| Node.js  | [Express.js](https://github.com/expressjs/express)   | ⭐⭐⭐🎯 | 
-| Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯   |
-| C#       | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ⭐       |
+| Language | Framework                                                     | Rating    |
+| -------- | ------------------------------------------------------------- | --------- |
+| Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯  |
+| Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐⭐    | 
+| Java     | [Javalin](https://github.com/javalin/javalin)                 | ⭐⭐⭐    |
+| C#       | [ASP.NET Core](https://github.com/dotnet/aspnetcore)          | ⭐        |
 
+### Testing Libraries
+      
+| Language | Framework                                     | Rating    |
+| -------- | --------------------------------------------- | --------- |
+| Java     | [JUnit](https://github.com/junit-team/junit5) | ⭐⭐⭐⭐ |
+| Java     | [Mockito](https://github.com/mockito/mockito) | ⭐⭐⭐⭐ |
+| Java     | [AssertJ](https://github.com/assertj/assertj) | ⭐⭐⭐⭐ |
+      
    </td>
    <td>
-      
+
+ 
+### Metaframeworks
+
+| Language   | Framework                                               | Rating |
+| ---------- | ------------------------------------------------------- | ------ |
+| TypeScript | [Next.js](https://github.com/vercel/next.js)            | 🎯🎯🎯 |
+
 ### Front-End
 
-| Language           | Rating    | | Framework                                      | Rating   |
-| ------------------ | --------- |-| ---------------------------------------------- | -------- |
-| HTML               | ⭐⭐⭐   | | [Bootstrap](https://github.com/twbs/bootstrap) | ⭐⭐⭐   |
-| CSS                | ⭐🎯🎯   | | [Angular](https://github.com/angular/angular)  | ⭐⭐⭐   |
-| JavaScript         | ⭐⭐⭐   | | [React.js](https://github.com/facebook/react)  | ⭐🎯🎯🎯 |
+| Language                                                | Rating   | 
+| ------------------------------------------------------- | -------- |
+| HTML                                                    | ⭐⭐⭐   | 
+| CSS                                                     | ⭐🎯🎯   |
+| [Tailwind](https://github.com/tailwindlabs/tailwindcss) | 🎯🎯🎯   | 
 
-     
+### Front-End Frameworks
+
+| Framework                                      | Rating   |
+| ---------------------------------------------- | -------- |
+| [React.js](https://github.com/facebook/react)  | ⭐🎯🎯🎯 |
+| [Angular](https://github.com/angular/angular)  | ⭐⭐⭐   |
+
 ### Database
 
 | Type    | ORM/ODM                                                 | Rating   |
 | ------- | ------------------------------------------------------- | -------- |
 | SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐⭐   |
 | SQL     | [Prisma](https://github.com/prisma/prisma)              | 🎯🎯🎯   | 
-| MongoDB | [Mongoose](https://github.com/Automattic/mongoose)      | ⭐       | 
+| MongoDB | [Mongoose](https://github.com/Automattic/mongoose)      | ⭐       |
 
    </td>
    <td>
 
-### Other Tools
+### Dev Ops
+
+| Technology | Rating     |
+| ---------- | ---------- |
+| Git        | ⭐⭐⭐⭐⭐ |
+| Docker     | ⭐⭐⭐⭐   |
+| Nginx      | ⭐🎯🎯     |
+| AWS        | 🎯🎯🎯     |
+| Kubernetes | 🎯🎯🎯     |
+
+### Build Tools
      
-| Language      | Rating   |
-| ------------- | -------- |
-| C             | ⭐⭐⭐⭐ |
-| TypeScript    | ⭐⭐⭐⭐ |
-| Scala         | ⭐⭐⭐   |
-| Bash Scripts  | ⭐⭐⭐   |
-| Ruby          | ⭐⭐     |
-| Python        | ⭐       | 
-| PHP           | ⭐       | 
-     
-| Tool          | Rating   |
-| ------------- | -------- |
-| GNU Make      | ⭐⭐⭐⭐ | 
-| Linux Shell   | ⭐⭐⭐⭐ |
-| CMake         | ⭐⭐⭐   |
-| RxJS          | ⭐⭐⭐   |
-| JWT           | ⭐⭐     |
+| Tool     | Rating   |
+| -------- | -------- |
+| Maven    | ⭐⭐⭐⭐ | 
+| Makefile | ⭐⭐⭐⭐ | 
+| CMake    | ⭐⭐⭐   |
+
+### Libraries
+
+| Language   | Library                                               | Rating   |
+|------------| ----------------------------------------------------- | -------- |
+| TypeScript | [Discord.js](https://github.com/discordjs/discord.js) | ⭐⭐⭐⭐ |
+| TypeScript | [RxJS](https://github.com/ReactiveX/rxjs)             | ⭐⭐⭐   |
+| TypeScript | [tRPC](https://github.com/trpc/trpc)                  | 🎯🎯🎯   |
+| Java       | [Google Guice](https://github.com/google/guice)       | ⭐⭐     | 
 
   </td>
  </tr>
