@@ -19,8 +19,11 @@
   <a href="mailto:aguseranieri@gmail.com"><img src="https://img.shields.io/badge/-aguseranieri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 
+## 🎓 My career
 
-## My tech stack
+![materias](https://user-images.githubusercontent.com/39303639/222600027-1e7ffc74-93e6-4aac-8773-2bf1fff1adad.png)
+
+## 📚 My tech stack
 
 - ⭐ = Current
 - 🎯 = 2023 goal
