@@ -6,7 +6,7 @@
 
 - 🌱 I'm learning Spring Boot & React
 
-- 💡 I do also like to create tools to increase my productivity and share them with the community ☺️
+- 💡 I also like to create cool stuff to improve my productivity and share it to the community ☺️
 
   <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
