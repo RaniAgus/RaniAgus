@@ -37,7 +37,7 @@
 
 | Language   | Rating     |
 | ---------- | ---------- |
-| Java       | ⭐⭐⭐⭐⭐ |
+| Java       | ⭐⭐⭐⭐   |
 | C          | ⭐⭐⭐⭐   |
 | TypeScript | ⭐⭐⭐⭐   |
 | Scala      | ⭐⭐⭐     |
