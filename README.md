@@ -21,8 +21,7 @@
 
 ## 🎓 My career
 
-![Mis materias](https://user-images.githubusercontent.com/39303639/222731835-d3ddca55-799c-4b22-9857-52d112c72202.png)
-
+![materias](https://user-images.githubusercontent.com/39303639/222733950-88e150ad-9770-4cf0-85cc-526d9209e1d9.png)
 
 ## 📚 My tech stack
 
