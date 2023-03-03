@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working as a Software Development Apprentice at [Hexacta](https://careers.hexacta.com/).
 
-- 🌱 I'm learning Spring Boot & React
+- 🌱 I'm learning T3 Stack (React, Next.js, Tailwind, Prisma, tRPC and NextAuth.js)
 
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community ☺️
 
@@ -64,13 +64,12 @@
       
    </td>
    <td>
-
  
 ### Metaframeworks
 
-| Language   | Framework                                               | Rating |
-| ---------- | ------------------------------------------------------- | ------ |
-| TypeScript | [Next.js](https://github.com/vercel/next.js)            | 🎯🎯🎯 |
+| Language   | Framework                                    | Rating |
+| ---------- | -------------------------------------------- | ------ |
+| TypeScript | [Next.js](https://github.com/vercel/next.js) | 🎯🎯🎯 |
 
 ### Front-End
 
@@ -91,7 +90,7 @@
 
 | Type    | ORM/ODM                                                 | Rating   |
 | ------- | ------------------------------------------------------- | -------- |
-| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐⭐   |
+| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐⭐ |
 | SQL     | [Prisma](https://github.com/prisma/prisma)              | 🎯🎯🎯   | 
 | MongoDB | [Mongoose](https://github.com/Automattic/mongoose)      | ⭐       |
 
@@ -118,12 +117,13 @@
 
 ### Libraries
 
-| Language   | Library                                               | Rating   |
-|------------| ----------------------------------------------------- | -------- |
-| TypeScript | [Discord.js](https://github.com/discordjs/discord.js) | ⭐⭐⭐⭐ |
-| TypeScript | [RxJS](https://github.com/ReactiveX/rxjs)             | ⭐⭐⭐   |
-| TypeScript | [tRPC](https://github.com/trpc/trpc)                  | 🎯🎯🎯   |
-| Java       | [Google Guice](https://github.com/google/guice)       | ⭐⭐     | 
+| Language   | Library                                                | Rating   |
+|------------| ------------------------------------------------------ | -------- |
+| TypeScript | [Discord.js](https://github.com/discordjs/discord.js)  | ⭐⭐⭐⭐ |
+| TypeScript | [RxJS](https://github.com/ReactiveX/rxjs)              | ⭐⭐⭐   |
+| TypeScript | [tRPC](https://github.com/trpc/trpc)                   | 🎯🎯🎯   |
+| TypeScript | [NextAuth.js](https://github.com/nextauthjs/next-auth) | 🎯🎯🎯   |
+| Java       | [Google Guice](https://github.com/google/guice)        | ⭐⭐     | 
 
   </td>
  </tr>
