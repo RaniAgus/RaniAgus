@@ -50,8 +50,8 @@
 | Language | Framework                                                     | Rating    |
 | -------- | ------------------------------------------------------------- | --------- |
 | Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯  |
-| Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐⭐    | 
 | Java     | [Javalin](https://github.com/javalin/javalin)                 | ⭐⭐⭐    |
+| Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐      | 
 | C#       | [ASP.NET Core](https://github.com/dotnet/aspnetcore)          | ⭐        |
 
 ### Testing Libraries
@@ -103,9 +103,9 @@
 | ---------- | ---------- |
 | Git        | ⭐⭐⭐⭐⭐ |
 | Docker     | ⭐⭐⭐⭐   |
-| Nginx      | ⭐🎯🎯     |
-| AWS        | 🎯🎯🎯     |
-| Kubernetes | 🎯🎯🎯     |
+| Nginx      | ⭐🎯       |
+| AWS        | 🎯🎯       |
+| Kubernetes | 🎯🎯       |
 
 ### Build Tools
      
