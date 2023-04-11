@@ -52,7 +52,6 @@
 | Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯  |
 | Java     | [Javalin](https://github.com/javalin/javalin)                 | ⭐⭐⭐    |
 | Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐      | 
-| C#       | [ASP.NET Core](https://github.com/dotnet/aspnetcore)          | ⭐        |
 
 ### Testing Libraries
       
@@ -83,8 +82,8 @@
 
 | Framework                                      | Rating   |
 | ---------------------------------------------- | -------- |
-| [React.js](https://github.com/facebook/react)  | ⭐🎯🎯🎯 |
 | [Angular](https://github.com/angular/angular)  | ⭐⭐⭐   |
+| [React.js](https://github.com/facebook/react)  | ⭐🎯🎯🎯 |
 
 ### Database
 
@@ -92,7 +91,6 @@
 | ------- | ------------------------------------------------------- | -------- |
 | SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐⭐ |
 | SQL     | [Prisma](https://github.com/prisma/prisma)              | 🎯🎯🎯   | 
-| MongoDB | [Mongoose](https://github.com/Automattic/mongoose)      | ⭐       |
 
    </td>
    <td>
@@ -121,9 +119,9 @@
 |------------| ------------------------------------------------------ | -------- |
 | TypeScript | [Discord.js](https://github.com/discordjs/discord.js)  | ⭐⭐⭐⭐ |
 | TypeScript | [RxJS](https://github.com/ReactiveX/rxjs)              | ⭐⭐⭐   |
+| Java       | [Google Guice](https://github.com/google/guice)        | ⭐⭐     | 
 | TypeScript | [tRPC](https://github.com/trpc/trpc)                   | 🎯🎯🎯   |
 | TypeScript | [NextAuth.js](https://github.com/nextauthjs/next-auth) | 🎯🎯🎯   |
-| Java       | [Google Guice](https://github.com/google/guice)        | ⭐⭐     | 
 
   </td>
  </tr>
