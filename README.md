@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working as a Software Development Apprentice at [Hexacta](https://careers.hexacta.com/).
 
-- 🌱 I'm learning T3 Stack (React, Next.js, Tailwind, Prisma, tRPC and NextAuth.js)
+- 🌱 I'm learning ElasticSearch and T3 Stack (React, Next.js, Tailwind, Prisma, tRPC and NextAuth.js)
 
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community ☺️
 
@@ -87,10 +87,11 @@
 
 ### Database
 
-| Type    | ORM/ODM                                                 | Rating   |
-| ------- | ------------------------------------------------------- | -------- |
-| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm) | ⭐⭐⭐⭐ |
-| SQL     | [Prisma](https://github.com/prisma/prisma)              | 🎯🎯🎯   | 
+| Type    | ORM/ODM                                                   | Rating   |
+| ------- | --------------------------------------------------------- | -------- |
+| SQL     | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
+| No-SQL  | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
+| SQL     | [Prisma](https://github.com/prisma/prisma)                | 🎯🎯🎯   | 
 
    </td>
    <td>
