@@ -6,7 +6,7 @@
 
 - 🌱 I'm learning ElasticSearch and T3 Stack (React, Next.js, Tailwind, Prisma, tRPC and NextAuth.js)
 
-- 💡 I also like to create cool stuff to improve my productivity and share it to the community ☺️
+- 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
 
   <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
