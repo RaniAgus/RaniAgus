@@ -26,7 +26,7 @@
 ## 📚 My tech stack
 
 - ⭐ = Current
-- 🎯 = 2023 goal
+- 🎯 = 2024 goal
 
 
 <table>
@@ -75,7 +75,7 @@
 | Language                                                | Rating   | 
 | ------------------------------------------------------- | -------- |
 | HTML                                                    | ⭐⭐⭐   | 
-| CSS                                                     | ⭐🎯🎯   |
+| CSS                                                     | ⭐⭐🎯   |
 | [Tailwind](https://github.com/tailwindlabs/tailwindcss) | 🎯🎯🎯   | 
 
 ### Front-End Frameworks
