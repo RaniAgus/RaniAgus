@@ -80,7 +80,6 @@
 | ---------------------------------------------- | -------- |
 | [Angular](https://github.com/angular/angular)  | ⭐⭐⭐   |
 | [React.js](https://github.com/facebook/react)  | ⭐🎯🎯   |
-| [Vue.js](https://vuejs.org/)                   | 🎯🎯🎯   |
 
 ### Template Engines
 
