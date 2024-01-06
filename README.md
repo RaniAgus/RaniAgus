@@ -42,9 +42,9 @@
 | TypeScript | ⭐⭐⭐⭐   |
 | Scala      | ⭐⭐⭐     |
 | Bash       | ⭐⭐⭐     |
-| JavaScript | ⭐⭐⭐     |
 | Ruby       | ⭐⭐⭐     |
 | Go         | 🎯🎯🎯     |
+| JavaScript | ⭐⭐       |
 
 ### Back End Frameworks
 
