@@ -64,13 +64,6 @@
 | Java       | [AssertJ](https://github.com/assertj/assertj) | ⭐⭐⭐⭐ |
 | JavaScript | [Jest](https://jestjs.io/)                    | ⭐⭐⭐   |
 
-### Database Connectors
-
-| Language     | ORM/Compiler/SDK                                          | Rating   |
-| ------------ | --------------------------------------------------------- | -------- |
-| Java         | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
-| Java         | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
-| Go           | [sqlc](https://github.com/sqlc-dev/sqlc)                  | 🎯🎯🎯   |
 
    </td>
    <td>
@@ -104,6 +97,14 @@
 | ------------ | ------------------------------------------- | -------- |
 | Java         | [Flyway](https://github.com/flyway/flyway/) | ⭐🎯🎯   |
 | Go           | [Goose](https://github.com/pressly/goose)   | 🎯🎯🎯   | 
+
+### Database Connectors
+
+| Language     | ORM/Compiler/SDK                                          | Rating   |
+| ------------ | --------------------------------------------------------- | -------- |
+| Java         | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
+| Java         | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
+| Go           | [sqlc](https://github.com/sqlc-dev/sqlc)                  | 🎯🎯🎯   |
 
    </td>
    <td>
