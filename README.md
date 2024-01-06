@@ -52,17 +52,18 @@
 | Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯  |
 | Java     | [Javalin](https://github.com/javalin/javalin)                 | ⭐⭐⭐    |
 | Go       | [Chi](https://github.com/go-chi/chi/)                         | 🎯🎯🎯    |
-| Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐      |  
-
+| Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐      |
+| Node.js  | [Serverless](https://www.serverless.com/)                     | ⭐⭐      |
 
 ### Testing Libraries
       
-| Language | Framework                                     | Rating    |
-| -------- | --------------------------------------------- | --------- |
-| Java     | [JUnit](https://github.com/junit-team/junit5) | ⭐⭐⭐⭐ |
-| Java     | [Mockito](https://github.com/mockito/mockito) | ⭐⭐⭐⭐ |
-| Java     | [AssertJ](https://github.com/assertj/assertj) | ⭐⭐⭐⭐ |
-      
+| Language   | Framework                                     | Rating    |
+| ---------- | --------------------------------------------- | --------- |
+| Java       | [JUnit](https://github.com/junit-team/junit5) | ⭐⭐⭐⭐ |
+| Java       | [Mockito](https://github.com/mockito/mockito) | ⭐⭐⭐⭐ |
+| Java       | [AssertJ](https://github.com/assertj/assertj) | ⭐⭐⭐⭐ |
+| JavaScript | [Jest](https://jestjs.io/)                    | ⭐⭐⭐   |
+
    </td>
    <td>
 
