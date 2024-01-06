@@ -44,7 +44,6 @@
 | Bash       | ⭐⭐⭐     |
 | Ruby       | ⭐⭐⭐     |
 | Go         | 🎯🎯🎯     |
-| JavaScript | ⭐⭐       |
 
 ### Back End Frameworks
 
