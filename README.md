@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working as a Software Development Apprentice at [Hexacta](https://careers.hexacta.com/).
 
-- 🌱 I'm learning ElasticSearch, Go, HTMX and Tailwind CSS
+- 🌱 I'm learning ElasticSearch, Go, [HTMX](https://github.com/bigskysoftware/htmx), [Templ](https://github.com/a-h/templ) and [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
 
@@ -69,11 +69,12 @@
 
 ### Front-End
 
-| Language                                                | Rating   | 
-| ------------------------------------------------------- | -------- |
-| HTML                                                    | ⭐⭐⭐   | 
-| CSS                                                     | ⭐⭐🎯   |
-| [Tailwind](https://github.com/tailwindlabs/tailwindcss) | 🎯🎯🎯   | 
+| Language                                                   | Rating   | 
+| ---------------------------------------------------------- | -------- |
+| HTML                                                       | ⭐⭐⭐   | 
+| CSS                                                        | ⭐⭐🎯   |
+| [HTMX](https://github.com/bigskysoftware/htmx)             | 🎯🎯🎯   | 
+| [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | 🎯🎯🎯   | 
 
 ### Front-End Frameworks
 
@@ -84,10 +85,10 @@
 
 ### Template Engines
 
-| Language   | Library                                                | Rating    |
-|------------| ------------------------------------------------------ | --------- |
-| Java       | [JTE](https://github.com/ReactiveX/rxjs)               | ⭐⭐⭐🎯  |
-| Go         | [Templ](https://github.com/ReactiveX/rxjs)             | 🎯🎯🎯🎯  |
+| Language   | Library                                            | Rating   |
+|------------| -------------------------------------------------- | -------- |
+| Java       | [JTE](https://github.com/casid/jte/)               | ⭐⭐⭐  |
+| Go         | [Templ](https://github.com/a-h/templ)              | 🎯🎯🎯  |
 
 ### Database
 
