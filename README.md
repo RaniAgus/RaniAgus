@@ -90,12 +90,20 @@
 | Java       | [JTE](https://github.com/casid/jte/)               | ⭐⭐⭐  |
 | Go         | [Templ](https://github.com/a-h/templ)              | 🎯🎯🎯  |
 
-### Database
+### Database Connectors
 
-| Type     | ORM/ODM                                                   | Rating   |
-| -------- | --------------------------------------------------------- | -------- |
-| SQL      | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
-| Document | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
+| Type     | Language     | ORM/Compiler/SDK                                          | Rating   |
+| -------- | ------------ | --------------------------------------------------------- | -------- |
+| SQL      | Java         | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
+| Document | Java         | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
+| SQL      | Go           | [sqlc](https://github.com/sqlc-dev/sqlc)                  | 🎯🎯🎯   |
+
+### Database Migration Tools
+
+| Type     | Language     | Library                                     | Rating   |
+| -------- | ------------ | ------------------------------------------- | -------- |
+| SQL      | Java         | [Flyway](https://github.com/flyway/flyway/) | ⭐🎯🎯   |
+| SQL      | Go           | [Goose](https://github.com/pressly/goose)   | 🎯🎯🎯   | 
 
    </td>
    <td>
