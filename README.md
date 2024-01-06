@@ -64,6 +64,14 @@
 | Java       | [AssertJ](https://github.com/assertj/assertj) | ⭐⭐⭐⭐ |
 | JavaScript | [Jest](https://jestjs.io/)                    | ⭐⭐⭐   |
 
+### Database Connectors
+
+| Language     | ORM/Compiler/SDK                                          | Rating   |
+| ------------ | --------------------------------------------------------- | -------- |
+| Java         | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
+| Java         | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
+| Go           | [sqlc](https://github.com/sqlc-dev/sqlc)                  | 🎯🎯🎯   |
+
    </td>
    <td>
 
@@ -90,20 +98,12 @@
 | Java       | [JTE](https://github.com/casid/jte/)               | ⭐⭐⭐  |
 | Go         | [Templ](https://github.com/a-h/templ)              | 🎯🎯🎯  |
 
-### Database Connectors
-
-| Type     | Language     | ORM/Compiler/SDK                                          | Rating   |
-| -------- | ------------ | --------------------------------------------------------- | -------- |
-| SQL      | Java         | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
-| Document | Java         | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
-| SQL      | Go           | [sqlc](https://github.com/sqlc-dev/sqlc)                  | 🎯🎯🎯   |
-
 ### Database Migration Tools
 
-| Type     | Language     | Library                                     | Rating   |
-| -------- | ------------ | ------------------------------------------- | -------- |
-| SQL      | Java         | [Flyway](https://github.com/flyway/flyway/) | ⭐🎯🎯   |
-| SQL      | Go           | [Goose](https://github.com/pressly/goose)   | 🎯🎯🎯   | 
+| Language     | Library                                     | Rating   |
+| ------------ | ------------------------------------------- | -------- |
+| Java         | [Flyway](https://github.com/flyway/flyway/) | ⭐🎯🎯   |
+| Go           | [Goose](https://github.com/pressly/goose)   | 🎯🎯🎯   | 
 
    </td>
    <td>
