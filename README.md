@@ -51,7 +51,7 @@
 | -------- | ------------------------------------------------------------- | --------- |
 | Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯  |
 | Java     | [Javalin](https://github.com/javalin/javalin)                 | ⭐⭐⭐    |
-| Go       | [Chi](https://github.com/go-chi/chi/)                         | 🎯🎯🎯    |
+| Go       | [chi](https://github.com/go-chi/chi/)                         | 🎯🎯🎯    |
 | Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐      |
 | Node.js  | [Serverless](https://www.serverless.com/)                     | ⭐⭐      |
 
@@ -96,7 +96,7 @@
 | Language     | Library                                     | Rating   |
 | ------------ | ------------------------------------------- | -------- |
 | Java         | [Flyway](https://github.com/flyway/flyway/) | ⭐🎯🎯   |
-| Go           | [Goose](https://github.com/pressly/goose)   | 🎯🎯🎯   | 
+| Go           | [goose](https://github.com/pressly/goose)   | 🎯🎯🎯   | 
 
 ### Database Connectors
 
