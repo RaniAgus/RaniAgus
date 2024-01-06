@@ -39,11 +39,11 @@
 | ---------- | ---------- |
 | Java       | ⭐⭐⭐⭐   |
 | C          | ⭐⭐⭐⭐   |
-| TypeScript | ⭐⭐⭐⭐   |
+| TypeScript | ⭐⭐⭐🎯   |
 | Scala      | ⭐⭐⭐     |
 | Bash       | ⭐⭐⭐     |
-| Ruby       | ⭐⭐⭐     |
 | Go         | 🎯🎯🎯     |
+| Ruby       | ⭐⭐       |
 
 <hr>
 
@@ -65,6 +65,7 @@
 | Java       | [Mockito](https://github.com/mockito/mockito) | ⭐⭐⭐⭐ |
 | Java       | [AssertJ](https://github.com/assertj/assertj) | ⭐⭐⭐⭐ |
 | JavaScript | [Jest](https://jestjs.io/)                    | ⭐⭐⭐   |
+| Ruby       | [RSpec](https://github.com/rspec/rspec-core)  | ⭐⭐⭐   |
 
 
    </td>
