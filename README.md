@@ -45,6 +45,8 @@
 | Ruby       | ⭐⭐⭐     |
 | Go         | 🎯🎯🎯     |
 
+<hr>
+
 ### Back End Frameworks
 
 | Language | Framework                                                     | Rating    |
@@ -84,12 +86,7 @@
 | [Angular](https://github.com/angular/angular)  | ⭐⭐⭐   |
 | [React.js](https://github.com/facebook/react)  | ⭐🎯🎯   |
 
-### Template Engines
-
-| Language   | Library                                            | Rating   |
-|------------| -------------------------------------------------- | -------- |
-| Java       | [JTE](https://github.com/casid/jte/)               | ⭐⭐⭐  |
-| Go         | [Templ](https://github.com/a-h/templ)              | 🎯🎯🎯  |
+<hr>
 
 ### Database Migration Tools
 
@@ -124,6 +121,17 @@
 | Maven    | ⭐⭐⭐⭐ | 
 | Makefile | ⭐⭐⭐⭐ | 
 | CMake    | ⭐⭐⭐   |
+
+<hr>
+
+### Template Engines
+
+| Language   | Library                                            | Rating   |
+|------------| -------------------------------------------------- | -------- |
+| Java       | [JTE](https://github.com/casid/jte/)               | ⭐⭐⭐  |
+| Go         | [Templ](https://github.com/a-h/templ)              | 🎯🎯🎯  |
+
+<hr>
 
 ### Other Libraries
 
