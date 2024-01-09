@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working as a Software Development Apprentice at [Hexacta](https://careers.hexacta.com/).
 
-- 🌱 I'm learning ElasticSearch, Go, [HTMX](https://github.com/bigskysoftware/htmx), [Templ](https://github.com/a-h/templ) and [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
+- 🌱 I'm learning ElasticSearch, Go, [HTMX](https://github.com/bigskysoftware/htmx) and [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
 
