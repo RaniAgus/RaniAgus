@@ -40,9 +40,9 @@
 | Java       | ⭐⭐⭐⭐   |
 | C          | ⭐⭐⭐⭐   |
 | TypeScript | ⭐⭐⭐🎯   |
-| Go         | 🎯🎯🎯     |
 | Scala      | ⭐⭐⭐     |
 | Bash       | ⭐⭐⭐     |
+| Go         | ⭐🎯🎯     |
 | Ruby       | ⭐⭐       |
 
 <hr>
@@ -79,8 +79,8 @@
 | HTML                                                       | ⭐⭐⭐   | 
 | CSS                                                        | ⭐⭐🎯   |
 | [React.js](https://github.com/facebook/react)              | ⭐🎯🎯   |
+| [HTMX](https://github.com/bigskysoftware/htmx)             | ⭐🎯🎯   | 
 | [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | 🎯🎯🎯   | 
-| [HTMX](https://github.com/bigskysoftware/htmx)             | 🎯🎯🎯   | 
 
 <hr>
 
@@ -125,7 +125,7 @@
 | Language   | Library                                            | Rating   |
 |------------| -------------------------------------------------- | -------- |
 | Java       | [JTE](https://github.com/casid/jte/)               | ⭐⭐⭐  |
-| Go         | [Templ](https://github.com/a-h/templ)              | 🎯🎯🎯  |
+| Go         | [Templ](https://github.com/a-h/templ)              | ⭐🎯🎯  |
 
 <hr>
 
