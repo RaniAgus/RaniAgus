@@ -71,21 +71,16 @@
    </td>
    <td>
 
-### Front-End
+### Front End
 
-| Language                                                   | Rating   | 
+| Language/Library/Framework                                 | Rating   | 
 | ---------------------------------------------------------- | -------- |
+| [Angular](https://github.com/angular/angular)              | ⭐⭐⭐   |
 | HTML                                                       | ⭐⭐⭐   | 
 | CSS                                                        | ⭐⭐🎯   |
-| [HTMX](https://github.com/bigskysoftware/htmx)             | 🎯🎯🎯   | 
+| [React.js](https://github.com/facebook/react)              | ⭐🎯🎯   |
 | [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | 🎯🎯🎯   | 
-
-### Front-End Frameworks
-
-| Framework                                      | Rating   |
-| ---------------------------------------------- | -------- |
-| [Angular](https://github.com/angular/angular)  | ⭐⭐⭐   |
-| [React.js](https://github.com/facebook/react)  | ⭐🎯🎯   |
+| [HTMX](https://github.com/bigskysoftware/htmx)             | 🎯🎯🎯   | 
 
 <hr>
 
