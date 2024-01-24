@@ -2,7 +2,7 @@
 
 - 📚 I'm a 24-year-old Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also a teaching assistant for [Operative Systems](https://www.utnso.com.ar/) and [Advanced Programming Techniques](https://tadp-utn-frba.github.io/).
 
-- 👨‍💻 Currently working as a Software Development Apprentice at [Hexacta](https://careers.hexacta.com/).
+- 👨‍💻 Currently working as a Software Developer at [Hexacta](https://careers.hexacta.com/).
 
 - 🌱 I'm learning ElasticSearch, Go, [HTMX](https://github.com/bigskysoftware/htmx) and [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
