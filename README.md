@@ -21,7 +21,7 @@
 
 ## 🎓 My career
 
-![Mis materias](https://github.com/RaniAgus/RaniAgus/assets/39303639/57c4389e-bf85-4fc5-87dc-9363880ccff0)
+![Mis materias](https://github.com/RaniAgus/RaniAgus/assets/39303639/ffe16f3c-fd62-4ffd-9871-1e3a37e2e9d8)
 
 ## 📚 My tech stack
 
