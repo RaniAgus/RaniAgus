@@ -9,8 +9,8 @@
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
 
   <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark"/>
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&theme=github_dark"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
 
   <p align="center">
