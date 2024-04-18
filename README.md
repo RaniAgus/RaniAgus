@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working as a Semi-Sr Software Engineer at [GlobalLogic](https://www.globallogic.com/latam/).
 
-- 🌱 I'm learning ElasticSearch, Go, [gRPC](https://grpc.io/), [HTMX](https://github.com/bigskysoftware/htmx) and [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
+- 🌱 I'm learning ElasticSearch, Go, React and TailwindCSS.
 
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
 
@@ -49,7 +49,7 @@
 
 ### Back End Frameworks
 
-| Language | Framework                                                     | Rating    |
+| Language | Framework/Router                                              | Rating    |
 | -------- | ------------------------------------------------------------- | --------- |
 | Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯  |
 | Java     | [Javalin](https://github.com/javalin/javalin)                 | ⭐⭐⭐    |
@@ -78,9 +78,8 @@
 | [Angular](https://github.com/angular/angular)              | ⭐⭐⭐   |
 | HTML                                                       | ⭐⭐⭐   | 
 | CSS                                                        | ⭐⭐🎯   |
-| [React.js](https://github.com/facebook/react)              | ⭐🎯🎯   |
-| [HTMX](https://github.com/bigskysoftware/htmx)             | ⭐🎯🎯   | 
-| [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | 🎯🎯🎯   | 
+| [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | ⭐⭐🎯   | 
+| [React](https://github.com/facebook/react)                 | ⭐🎯🎯   |
 
 <hr>
 
@@ -89,7 +88,7 @@
 | Language     | Library                                     | Rating   |
 | ------------ | ------------------------------------------- | -------- |
 | Java         | [Flyway](https://github.com/flyway/flyway/) | ⭐🎯🎯   |
-| Go           | [goose](https://github.com/pressly/goose)   | 🎯🎯🎯   | 
+| Go           | [goose](https://github.com/pressly/goose)   | 🎯🎯     | 
 
 ### Database Connectors
 
@@ -97,7 +96,7 @@
 | ------------ | --------------------------------------------------------- | -------- |
 | Java         | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
 | Java         | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
-| Go           | [sqlc](https://github.com/sqlc-dev/sqlc)                  | 🎯🎯🎯   |
+| Go           | [sqlc](https://github.com/sqlc-dev/sqlc)                  | 🎯🎯    |
 
    </td>
    <td>
