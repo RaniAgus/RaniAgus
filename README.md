@@ -2,7 +2,7 @@
 
 - 📚 I'm a 24-year-old Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also a teaching assistant for [Operative Systems](https://www.utnso.com.ar/) and [Advanced Programming Techniques](https://tadp-utn-frba.github.io/).
 
-- 👨‍💻 Currently working as a Software Developer at [GlobalLogic](https://www.globallogic.com/latam/).
+- 👨‍💻 Currently working as a Software Engineer at [GlobalLogic](https://www.globallogic.com/latam/).
 
 - 🌱 I'm learning ElasticSearch, Go, [gRPC](https://grpc.io/), [HTMX](https://github.com/bigskysoftware/htmx) and [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
