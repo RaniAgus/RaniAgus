@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working as a Semi-Sr Software Engineer at [GlobalLogic](https://www.globallogic.com/latam/).
 
-- 🌱 I'm learning ElasticSearch, Go, React and TailwindCSS.
+- 🌱 I'm learning ElasticSearch and Golang.
 
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
 
