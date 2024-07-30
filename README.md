@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Agus
 
-- 📚 I'm a 24-year-old Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also a teaching assistant for [Operative Systems](https://www.utnso.com.ar/) and [Advanced Programming Techniques](https://tadp-utn-frba.github.io/).
+- 📚 I'm a 25-year-old Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/), where I'm also a teaching assistant for [Operative Systems](https://www.utnso.com.ar/) and [Advanced Programming Techniques](https://tadp-utn-frba.github.io/).
 
 - 👨‍💻 Currently working as a Semi-Sr Software Engineer at [GlobalLogic](https://www.globallogic.com/latam/).
 
