@@ -22,7 +22,7 @@
 
 ## 🎓 My career
 
-![Mis materias](https://github.com/user-attachments/assets/594c78ba-5761-40a3-b6e3-3a119ffb1253)
+![Mis materias](https://github.com/user-attachments/assets/3430be00-7e11-4a6b-b9bc-f4b87bc438ee)
 
 ## 📚 My tech stack
 
