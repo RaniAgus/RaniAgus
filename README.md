@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working as a Semi-Sr Software Engineer at [GlobalLogic](https://www.globallogic.com/latam/).
 
-- 🌱 I'm learning ElasticSearch and Golang.
+- 🌱 I'm learning ElasticSearch and React w/Remix.
 
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
 
@@ -53,10 +53,10 @@
 | Language | Framework/Router                                              | Rating    |
 | -------- | ------------------------------------------------------------- | --------- |
 | Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯  |
-| Java     | [Javalin](https://github.com/javalin/javalin)                 | ⭐⭐⭐    |
-| Go       | [chi](https://github.com/go-chi/chi/)                         | 🎯🎯🎯    |
+| Node.js  | [Serverless](https://www.serverless.com/)                     | ⭐⭐⭐    |
+| Go       | [net/http](https://pkg.go.dev/net/http)                       | 🎯🎯🎯    |
 | Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐      |
-| Node.js  | [Serverless](https://www.serverless.com/)                     | ⭐⭐      |
+| C#       | [.NET 8.0](https://dotnet.microsoft.com/en-us/)               | 🎯🎯    |
 
 ### Testing Libraries
       
@@ -65,8 +65,8 @@
 | Java       | [JUnit](https://github.com/junit-team/junit5) | ⭐⭐⭐⭐ |
 | Java       | [Mockito](https://github.com/mockito/mockito) | ⭐⭐⭐⭐ |
 | Java       | [AssertJ](https://github.com/assertj/assertj) | ⭐⭐⭐⭐ |
-| JavaScript | [Jest](https://jestjs.io/)                    | ⭐⭐⭐   |
-| Ruby       | [RSpec](https://github.com/rspec/rspec-core)  | ⭐⭐⭐   |
+| JavaScript | [Jest](https://jestjs.io/)                    | ⭐⭐     |
+| Ruby       | [RSpec](https://github.com/rspec/rspec-core)  | ⭐⭐     |
 
 
    </td>
@@ -81,6 +81,7 @@
 | CSS                                                        | ⭐⭐🎯   |
 | [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | ⭐⭐🎯   | 
 | [React](https://github.com/facebook/react)                 | ⭐🎯🎯   |
+| [Remix](https://remix.run/)                                | 🎯🎯🎯   |
 
 <hr>
 
@@ -89,7 +90,6 @@
 | Language     | Library                                     | Rating   |
 | ------------ | ------------------------------------------- | -------- |
 | Java         | [Flyway](https://github.com/flyway/flyway/) | ⭐🎯🎯   |
-| Go           | [goose](https://github.com/pressly/goose)   | 🎯🎯     | 
 
 ### Database Connectors
 
@@ -97,7 +97,7 @@
 | ------------ | --------------------------------------------------------- | -------- |
 | Java         | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
 | Java         | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
-| Go           | [sqlc](https://github.com/sqlc-dev/sqlc)                  | 🎯🎯    |
+| C#           | [Entity Framework](https://learn.microsoft.com/en-us/ef/) | 🎯🎯     | 
 
    </td>
    <td>
@@ -108,7 +108,7 @@
 | ---------- | ---------- |
 | Git        | ⭐⭐⭐⭐⭐ |
 | Docker     | ⭐⭐⭐⭐   |
-| Nginx      | ⭐         |
+| Terraform  | ⭐⭐⭐     |
 
 ### Build Tools
      
@@ -116,16 +116,7 @@
 | -------- | -------- |
 | Maven    | ⭐⭐⭐⭐ | 
 | Makefile | ⭐⭐⭐⭐ | 
-| CMake    | ⭐⭐⭐   |
-
-<hr>
-
-### Template Engines
-
-| Language   | Library                                            | Rating   |
-|------------| -------------------------------------------------- | -------- |
-| Java       | [JTE](https://github.com/casid/jte/)               | ⭐⭐⭐  |
-| Go         | [Templ](https://github.com/a-h/templ)              | ⭐🎯🎯  |
+| CMake    | ⭐⭐     |
 
 <hr>
 
@@ -135,7 +126,6 @@
 |------------| ------------------------------------------------------ | --------- |
 | TypeScript | [Discord.js](https://github.com/discordjs/discord.js)  | ⭐⭐⭐⭐  |
 | TypeScript | [RxJS](https://github.com/ReactiveX/rxjs)              | ⭐⭐⭐⭐  |
-| Java       | [Google Guice](https://github.com/google/guice)        | ⭐⭐      | 
 
   </td>
  </tr>
