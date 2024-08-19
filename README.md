@@ -12,7 +12,7 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark"/>
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=RaniAgus&theme=darkhub" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RaniAgus&theme=darkhub" />
 
   <p align="center">
   <a href="https://gitstats.me/RaniAgus"><img src="https://img.shields.io/badge/-RaniAgus-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
