@@ -9,18 +9,19 @@
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
 
   <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark"/>
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark"/>
+  <img src="https://streak-stats.demolab.com?user=RaniAgus&theme=github-dark-blue&mode=weekly" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniAgus&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
+  <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RaniAgus&theme=darkhub" />
-
+  </p>
   <p align="center">
   <a href="https://gitstats.me/RaniAgus"><img src="https://img.shields.io/badge/-RaniAgus-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/agusranieri/"><img src="https://img.shields.io/badge/-Agustin%20Ranieri%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:aguseranieri@gmail.com"><img src="https://img.shields.io/badge/-aguseranieri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://user-badge.committers.top/argentina/RaniAgus"><img src="https://user-badge.committers.top/argentina/RaniAgus.svg"/></a>
   </p>
-
 ## 🎓 My career
 
 ![Mis materias](https://github.com/user-attachments/assets/3430be00-7e11-4a6b-b9bc-f4b87bc438ee)
