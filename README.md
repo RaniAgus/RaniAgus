@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working as Software Engineer at [Mercado Libre](https://careers-meli.mercadolibre.com/en).
 
-- 🌱 I'm learning ElasticSearch and React w/Remix.
+- 🌱 I'm learning React w/Remix.
 
 - 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
 
