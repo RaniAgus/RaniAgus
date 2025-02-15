@@ -58,7 +58,6 @@
 | Node.js  | [Serverless](https://www.serverless.com/)                     | ⭐⭐⭐    |
 | Go       | [net/http](https://pkg.go.dev/net/http)                       | 🎯🎯🎯    |
 | Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐      |
-| C#       | [.NET 8.0](https://dotnet.microsoft.com/en-us/)               | 🎯🎯    |
 
 ### Testing Libraries
       
@@ -99,7 +98,6 @@
 | ------------ | --------------------------------------------------------- | -------- |
 | Java         | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
 | Java         | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
-| C#           | [Entity Framework](https://learn.microsoft.com/en-us/ef/) | 🎯🎯     | 
 
    </td>
    <td>
