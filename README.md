@@ -42,10 +42,10 @@
 | ---------- | ---------- |
 | Java       | ⭐⭐⭐⭐   |
 | C          | ⭐⭐⭐⭐   |
-| TypeScript | ⭐⭐⭐🎯   |
+| TypeScript | ⭐⭐⭐⭐   |
 | Scala      | ⭐⭐⭐     |
 | Bash       | ⭐⭐⭐     |
-| Go         | ⭐🎯🎯     |
+| Go         | ⭐⭐⭐     |
 | Ruby       | ⭐⭐       |
 
 <hr>
@@ -77,12 +77,12 @@
 
 | Language/Library/Framework                                 | Rating   | 
 | ---------------------------------------------------------- | -------- |
-| [Angular](https://github.com/angular/angular)              | ⭐⭐⭐   |
 | HTML                                                       | ⭐⭐⭐   | 
 | CSS                                                        | ⭐⭐⭐   |
 | [Remix](https://remix.run/)                                | ⭐⭐⭐   |
 | [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | ⭐⭐⭐   | 
-| [React](https://github.com/facebook/react)                 | ⭐⭐🎯   |
+| [React](https://github.com/facebook/react)                 | ⭐⭐⭐   |
+| [Angular](https://github.com/angular/angular)              | ⭐⭐     |
 
 <hr>
 
@@ -116,6 +116,7 @@
 | -------- | -------- |
 | Maven    | ⭐⭐⭐⭐ | 
 | Makefile | ⭐⭐⭐⭐ | 
+| Gradle   | ⭐⭐     | 
 | CMake    | ⭐⭐     |
 
 <hr>
