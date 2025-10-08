@@ -55,8 +55,8 @@
 | Language | Framework/Router                                              | Rating    |
 | -------- | ------------------------------------------------------------- | --------- |
 | Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯  |
-| Node.js  | [Serverless](https://www.serverless.com/)                     | ⭐⭐⭐    |
-| Go       | [net/http](https://pkg.go.dev/net/http)                       | 🎯🎯🎯    |
+| Node.js  | [Serverless Framework](https://www.serverless.com/)           | ⭐⭐⭐    |
+| Golang   | [gin](https://github.com/gin-gonic/gin)                       | ⭐⭐🎯    |
 | Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐      |
 
 ### Testing Libraries
@@ -68,7 +68,7 @@
 | Java       | [AssertJ](https://github.com/assertj/assertj) | ⭐⭐⭐⭐ |
 | JavaScript | [Jest](https://jestjs.io/)                    | ⭐⭐     |
 | Ruby       | [RSpec](https://github.com/rspec/rspec-core)  | ⭐⭐     |
-
+| Golang     | [Mockery](https://github.com/vektra/mockery)  | ⭐       |
 
    </td>
    <td>
@@ -79,10 +79,10 @@
 | ---------------------------------------------------------- | -------- |
 | [Angular](https://github.com/angular/angular)              | ⭐⭐⭐   |
 | HTML                                                       | ⭐⭐⭐   | 
-| CSS                                                        | ⭐⭐🎯   |
-| [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | ⭐⭐🎯   | 
-| [React](https://github.com/facebook/react)                 | ⭐🎯🎯   |
-| [Remix](https://remix.run/)                                | 🎯🎯🎯   |
+| CSS                                                        | ⭐⭐⭐   |
+| [Remix](https://remix.run/)                                | ⭐⭐⭐   |
+| [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | ⭐⭐⭐   | 
+| [React](https://github.com/facebook/react)                 | ⭐⭐🎯   |
 
 <hr>
 
