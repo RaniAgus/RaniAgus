@@ -20,112 +20,15 @@
   <a href="https://www.linkedin.com/in/agusranieri/"><img src="https://img.shields.io/badge/-Agustin%20Ranieri%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:aguseranieri@gmail.com"><img src="https://img.shields.io/badge/-aguseranieri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
+
 ## 🎓 My career
 
 ![Mis materias](https://github.com/user-attachments/assets/2e3369c9-688d-48b4-9c67-ad051117cda5)
 
 ## 📚 My tech stack
 
-- ⭐ = Current
-- 🎯 = 2024 goal
-
-
-<table>
-  <tr>
-    <td>
-  
-### Languages
-
-| Language   | Rating     |
-| ---------- | ---------- |
-| Java       | ⭐⭐⭐⭐   |
-| C          | ⭐⭐⭐⭐   |
-| TypeScript | ⭐⭐⭐⭐   |
-| Scala      | ⭐⭐⭐     |
-| Bash       | ⭐⭐⭐     |
-| Go         | ⭐⭐⭐     |
-| Ruby       | ⭐⭐       |
-
-<hr>
-
-### Back End Frameworks
-
-| Language | Framework/Router                                              | Rating    |
-| -------- | ------------------------------------------------------------- | --------- |
-| Java     | [Spring Boot](https://github.com/spring-projects/spring-boot) | ⭐⭐⭐🎯  |
-| Node.js  | [Serverless Framework](https://www.serverless.com/)           | ⭐⭐⭐    |
-| Golang   | [gin](https://github.com/gin-gonic/gin)                       | ⭐⭐🎯    |
-| Node.js  | [Express.js](https://github.com/expressjs/express)            | ⭐⭐      |
-
-### Testing Libraries
-      
-| Language   | Framework                                     | Rating    |
-| ---------- | --------------------------------------------- | --------- |
-| Java       | [JUnit](https://github.com/junit-team/junit5) | ⭐⭐⭐⭐ |
-| Java       | [Mockito](https://github.com/mockito/mockito) | ⭐⭐⭐⭐ |
-| Java       | [AssertJ](https://github.com/assertj/assertj) | ⭐⭐⭐⭐ |
-| JavaScript | [Jest](https://jestjs.io/)                    | ⭐⭐     |
-| Ruby       | [RSpec](https://github.com/rspec/rspec-core)  | ⭐⭐     |
-| Golang     | [Mockery](https://github.com/vektra/mockery)  | ⭐       |
-
-   </td>
-   <td>
-
-### Front End
-
-| Language/Library/Framework                                 | Rating   | 
-| ---------------------------------------------------------- | -------- |
-| HTML                                                       | ⭐⭐⭐   | 
-| CSS                                                        | ⭐⭐⭐   |
-| [Remix](https://remix.run/)                                | ⭐⭐⭐   |
-| [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | ⭐⭐⭐   | 
-| [React](https://github.com/facebook/react)                 | ⭐⭐⭐   |
-| [Angular](https://github.com/angular/angular)              | ⭐⭐     |
-
-<hr>
-
-### Database Migration Tools
-
-| Language     | Library                                     | Rating   |
-| ------------ | ------------------------------------------- | -------- |
-| Java         | [Flyway](https://github.com/flyway/flyway/) | ⭐🎯🎯   |
-
-### Database Connectors
-
-| Language     | ORM/Compiler/SDK                                          | Rating   |
-| ------------ | --------------------------------------------------------- | -------- |
-| Java         | [Hibernate](https://github.com/hibernate/hibernate-orm)   | ⭐⭐⭐⭐ |
-| Java         | [ElasticSearch](https://github.com/elastic/elasticsearch) | ⭐🎯🎯   | 
-
-   </td>
-   <td>
-
-### Dev Ops
-
-| Technology | Rating     |
-| ---------- | ---------- |
-| Git        | ⭐⭐⭐⭐⭐ |
-| Docker     | ⭐⭐⭐⭐   |
-| Terraform  | ⭐⭐⭐     |
-
-### Build Tools
-     
-| Tool     | Rating   |
-| -------- | -------- |
-| Maven    | ⭐⭐⭐⭐ | 
-| Makefile | ⭐⭐⭐⭐ | 
-| Gradle   | ⭐⭐     | 
-| CMake    | ⭐⭐     |
-
-<hr>
-
-### Other Libraries
-
-| Language   | Library                                                | Rating    |
-|------------| ------------------------------------------------------ | --------- |
-| TypeScript | [Discord.js](https://github.com/discordjs/discord.js)  | ⭐⭐⭐⭐  |
-| TypeScript | [RxJS](https://github.com/ReactiveX/rxjs)              | ⭐⭐⭐⭐  |
-
-  </td>
- </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,react,remix,go,c,git,docker,terraform,html,css,tailwind,postgres,ruby,scala,haskell&perline=9&theme=dark" />
+  </a>
+</p>
