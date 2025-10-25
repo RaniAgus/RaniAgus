@@ -4,9 +4,7 @@
 
 - 👨‍💻 Currently working as Software Engineer at [Mercado Libre](https://careers-meli.mercadolibre.com/en).
 
-- 🌱 I'm learning React w/Remix.
-
-- 💡 I also like to create cool stuff to improve my productivity and share it to the community :D
+- 💡 I also like to create cool stuff to improve my productivity and share it to the community :)
 
   <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=RaniAgus&show_icons=true&bg_color=0d1117&theme=github_dark"/>
@@ -29,6 +27,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,react,remix,go,ruby,scala,html,css,tailwind,git,docker,terraform,postgres,c,haskell&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,go,ts,c,scala,angular,react,remix,tailwind,docker,terraform,postgres&perline=7&theme=dark" />
   </a>
 </p>
