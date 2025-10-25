@@ -29,6 +29,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,react,remix,go,c,git,docker,terraform,html,css,tailwind,postgres,ruby,scala,haskell&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,react,remix,go,ruby,scala,html,css,tailwind,git,docker,terraform,postgres,c,haskell&perline=9&theme=dark" />
   </a>
 </p>
