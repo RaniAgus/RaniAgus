@@ -21,7 +21,7 @@
 
 ## 🎓 My career
 
-<img width="5224" height="3344" alt="frba-subjects-graph" src="https://github.com/user-attachments/assets/b99fd291-a3bd-4952-be66-fc6b4ec2c1de" />
+<img width="4821" height="3049" alt="frba-subjects-graph" src="https://github.com/user-attachments/assets/ab929ead-9818-49c2-85f7-c43e116970ec" />
 
 ## 📚 My tech stack
 
