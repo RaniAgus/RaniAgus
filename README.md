@@ -21,7 +21,7 @@
 
 ## 🎓 My career
 
-![Mis materias](https://github.com/user-attachments/assets/2e3369c9-688d-48b4-9c67-ad051117cda5)
+<img width="5224" height="3344" alt="frba-subjects-graph" src="https://github.com/user-attachments/assets/b99fd291-a3bd-4952-be66-fc6b4ec2c1de" />
 
 ## 📚 My tech stack
 
