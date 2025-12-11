@@ -21,7 +21,9 @@
 
 ## 🎓 My career
 
-![Mis materias](https://github.com/user-attachments/assets/2e3369c9-688d-48b4-9c67-ad051117cda5)
+<a href="https://raniagus.github.io/subjects-graph/">
+  <img width="5224" height="3344" alt="subjects-graph" src="https://github.com/user-attachments/assets/f2033f9e-cf7a-4200-b613-afdd75e6b726" />
+</a>
 
 ## 📚 My tech stack
 
