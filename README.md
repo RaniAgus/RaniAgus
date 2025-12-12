@@ -22,7 +22,7 @@
 ## 🎓 My career
 
 <a href="https://raniagus.github.io/subjects-graph/">
-  <img width="5224" height="3344" alt="subjects-graph" src="https://github.com/user-attachments/assets/f2033f9e-cf7a-4200-b613-afdd75e6b726" />
+  <img width="4828" height="3238" alt="subjects-graph" src="https://github.com/user-attachments/assets/ad603025-b828-4e1d-bee8-490165bdd203" />
 </a>
 
 ## 📚 My tech stack
