@@ -16,12 +16,6 @@
   <a href="mailto:aguseranieri@gmail.com"><img src="https://img.shields.io/badge/-aguseranieri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 
-## 🎓 My career
-
-<a href="https://raniagus.github.io/subjects-graph/">
-  <img width="4828" height="3238" alt="subjects-graph" src="https://github.com/user-attachments/assets/ad603025-b828-4e1d-bee8-490165bdd203" />
-</a>
-
 ## 📚 My tech stack
 
 <p align="center">
@@ -29,3 +23,9 @@
     <img src="https://skillicons.dev/icons?i=git,java,spring,go,ts,c,scala,angular,react,remix,tailwind,docker,terraform,postgres&perline=7&theme=dark" />
   </a>
 </p>
+
+## 🎓 My Engineering roadmap
+
+<a href="https://raniagus.github.io/subjects-graph/">
+  <img width="4828" height="3238" alt="subjects-graph" src="https://github.com/user-attachments/assets/ad603025-b828-4e1d-bee8-490165bdd203" />
+</a>
