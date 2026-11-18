@@ -27,6 +27,6 @@
 ## 🎓 My Engineering roadmap
 
 <a href="https://raniagus.github.io/subjects-graph/">
-<img width="4972" height="3110" alt="subjects-graph-frba-k23" src="https://github.com/user-attachments/assets/85b24450-cdd1-4e2e-8ed6-45371f58d4e2" />
+<img width="4972" height="3110" alt="subjects-graph-frba-k23" src="https://github.com/user-attachments/assets/a8c81f56-3a9b-4d14-8cba-95b80eb00ed0" />
 </a>
 
